@@ -1,6 +1,16 @@
 {
+  "_comment1": "=== 한국은행 기준금리 및 주택임대차보호법 법정 비율 설정 ===",
+  "_comment2": "전월세전환율 = 기준금리(base_rate) + 가산이율(legal_add_rate)",
+
   "base_rate": 3.50,
+  "_base_rate_설명": "한국은행 기준금리 (한국은행 발표 시 이 값만 수정)",
+
   "legal_add_rate": 2.00,
+  "_legal_add_rate_설명": "주택임대차보호법 시행령 제9조 법정 가산이율 (보통 2.0% 고정)",
+
   "max_increase_rate": 5.00,
-  "updated_at": "2026-09-01"
+  "_max_increase_rate_설명": "주택임대차보호법 제7조 임대료 최고 인상률 상한 (5.0% 고정)",
+
+  "updated_at": "2026-09-01",
+  "_updated_at_설명": "금리 고시 기준일 (화면 하단 안내 문구에 표시됨)"
 }
