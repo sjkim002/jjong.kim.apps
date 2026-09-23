@@ -2,7 +2,7 @@
   "_comment1": "=== 한국은행 기준금리 및 주택임대차보호법 법정 비율 설정 ===",
   "_comment2": "전월세전환율 = 기준금리(base_rate) + 가산이율(legal_add_rate)",
 
-  "base_rate": 3.50,
+  "base_rate": 3.00,
   "_base_rate_설명": "한국은행 기준금리 (한국은행 발표 시 이 값만 수정)",
 
   "legal_add_rate": 2.00,
